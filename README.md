@@ -25,9 +25,8 @@ Halaman ini terdiri dari 3 bagian utama:
 
 ## ✨ Preview (opsional)
 Jika di-host di GitHub Pages, bisa dilihat di:
-> https://[usernamekamu].github.io/tugas-1-profil-biodata-html/
+> (https://github.com/silviasetiawati05/tugas-1-profil-biodata-html)
 
-*(Ganti `[usernamekamu]` dengan nama akun GitHub kamu)*
 
 ## 👩‍💻 Pembuat
 **Nama:** Silvia Setiawati  
